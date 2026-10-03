@@ -13,33 +13,32 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: "Schibsted Grotesk"
+      body: "Source Sans Pro"
+      code: "IBM Plex Mono"
     colors:
-    lightMode:
-      light: "#f8fafc"
-      lightgray: "#e2e8f0"
-      gray: "#94a3b8"
-      darkgray: "#334155"
-      dark: "#0f172a"
-      secondary: "#6366f1"
-      tertiary: "#0284c7"
-      highlight: "rgba(99, 102, 241, 0.1)"
-      textHighlight: "#fff23688"
-    darkMode:
-      light: "#090c15"          # Spazio Profondo (Sfondo principale)
-      lightgray: "#1c2237"      # Nebulosa Scura (Bordi e schede)
-      gray: "#6b7f9e"           # Testo secondario e date
-      darkgray: "#d1d5db"       # Testo delle note (Chiaro e leggibile)
-      dark: "#f9fafb"           # Titoli (Stelle brillanti)
-      secondary: "#a78bfa"      # Viola Astrale (Link e nodi del grafo)
-      tertiary: "#38bdf8"       # Azzurro Astral Express (Effetto passaggio mouse)
-      highlight: "rgba(167, 139, 250, 0.15)" # Evidenziatore astrale
-      textHighlight: "#b3aa0288"
+      lightMode:
+        light: "#f8fafc"
+        lightgray: "#e2e8f0"
+        gray: "#94a3b8"
+        darkgray: "#334155"
+        dark: "#0f172a"
+        secondary: "#6366f1"
+        tertiary: "#0284c7"
+        highlight: "rgba(99, 102, 241, 0.1)"
+        textHighlight: "#fff23688"
+      darkMode:
+        light: "#090c15"
+        lightgray: "#1c2237"
+        gray: "#6b7f9e"
+        darkgray: "#d1d5db"
+        dark: "#f9fafb"
+        secondary: "#a78bfa"
+        tertiary: "#38bdf8"
+        highlight: "rgba(167, 139, 250, 0.15)"
+        textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

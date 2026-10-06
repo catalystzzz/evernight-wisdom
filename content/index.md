@@ -1,4 +1,4 @@
 Benvenuti nel mio Obsidian di Honkai Star Rail,
 qui condivido le mie note sulla Lore di HSR
 
-Ultimo Aggiornamento 08/09/2026
+Ultimo Aggiornamento 06/10/2026

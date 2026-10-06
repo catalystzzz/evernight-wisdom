@@ -86,3 +86,50 @@ lodando il tradimento più fedele
 adorando la divinità più vergognosa.
 
 
+Capitolo X
+
+![[Pasted image 20261003212511.png]]
+
+La rana che vive in disparte Il suo mondo è una torre sepolta in profondità Nel silenzio rumoroso Gli attori dentro la torre fanno un'aggiunta
+
+Che dramma nobile!
+
+Colui che ha infranto la quiete della torre
+
+Era un vicino che aveva visto lo spettacolo "
+
+Ascolta, quest'opera mi ha lasciato il cuore inquieto per molto tempo"
+
+"Devi portarla al mercato"
+
+"Voglio condividere questa emozione con tutti"
+
+
+
+
+
+
+![[Pasted image 20261003212520.png]]
+
+
+La rana che vive in disparte
+
+Gonfiò le guance con indifferenza
+
+"Il mio dramma viene da un mondo di addizioni"
+
+"Ma tre quarti di tutte le rane"
+
+"Quelle che gracidano e gracidano"
+
+"Quelle sempre in lacrime"
+
+"Quelle che ridono sempre fino a tremare"
+
+"Vivono in un mondo di moltiplicazioni"
+
+"Non importa il totale"
+
+"Sempre tre quarti"
+
+"Settecentocinquantamillesimi"

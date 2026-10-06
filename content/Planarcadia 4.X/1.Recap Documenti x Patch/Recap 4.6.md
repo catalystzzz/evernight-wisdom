@@ -69,7 +69,7 @@ Un documento esclusivo per i rank P40+ dell'' #ipc che parla di alcuni avvenimen
 
 ###### #dongfangQigxing 
 Uno dei fondatori dell' #ipc 
-Lui è #louisfleming facevano parte del tema di supporto dedicato a fornire a Qlipoth i materiali per la costruzione del loro muro. Furono in grado di far diventare quel team il più grande business dell'universo, creando rotte commerciali tra pianeti che avevano le risorse di cui avevano bisogno. Fondarono l'IPC 30 Amber Era dopo aver avviato il loro team.
+Lui e #louisfleming facevano parte del tema di supporto dedicato a fornire a Qlipoth i materiali per la costruzione del loro muro. Furono in grado di far diventare quel team il più grande business dell'universo, creando rotte commerciali tra pianeti che avevano le risorse di cui avevano bisogno. Fondarono l'IPC 30 Amber Era dopo aver avviato il loro team.
 
 Dongfang fu colui che introdusse le regole commerciali dell'universo.
 
